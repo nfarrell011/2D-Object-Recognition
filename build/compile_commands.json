@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/build",
+  "command": "/usr/bin/clang++  -I/Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/csv_util -isystem /opt/homebrew/Cellar/opencv/4.9.0_5/include/opencv4 -g -std=gnu++11 -arch arm64 -o CMakeFiles/object_rec.dir/csv_util/csv_util.cpp.o -c /Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/csv_util/csv_util.cpp",
+  "file": "/Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/csv_util/csv_util.cpp",
+  "output": "CMakeFiles/object_rec.dir/csv_util/csv_util.cpp.o"
+},
+{
+  "directory": "/Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/build",
+  "command": "/usr/bin/clang++  -I/Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/csv_util -isystem /opt/homebrew/Cellar/opencv/4.9.0_5/include/opencv4 -g -std=gnu++11 -arch arm64 -o CMakeFiles/object_rec.dir/utils.cpp.o -c /Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/utils.cpp",
+  "file": "/Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/utils.cpp",
+  "output": "CMakeFiles/object_rec.dir/utils.cpp.o"
+},
+{
+  "directory": "/Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/build",
+  "command": "/usr/bin/clang++  -I/Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/csv_util -isystem /opt/homebrew/Cellar/opencv/4.9.0_5/include/opencv4 -g -std=gnu++11 -arch arm64 -o CMakeFiles/object_rec.dir/object_rec.cpp.o -c /Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/object_rec.cpp",
+  "file": "/Users/nelsonfarrell/Documents/Northeastern/5330/problem_sets/problem_set_3/object_rec.cpp",
+  "output": "CMakeFiles/object_rec.dir/object_rec.cpp.o"
+}
+]

@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.10)
+project(object_rec)
+find_package(OpenCV REQUIRED)
+set(CSV_UTILS_DIR "${CMAKE_CURRENT_SOURCE_DIR}/csv_util")
+include_directories(${CSV_UTILS_DIR})
+
+add_executable(object_rec ${CSV_UTILS_DIR}/csv_util.cpp utils.cpp object_rec.cpp)
+target_link_libraries(object_rec ${OpenCV_LIBS})
